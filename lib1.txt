@@ -1,1 +1,2 @@
 "line in lib1.txt" 
+a new line
